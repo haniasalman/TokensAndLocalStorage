@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "ngx-cookie-service": "^14.0.1"
+  }
+}
